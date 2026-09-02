@@ -99,7 +99,7 @@ def scan(region):
                     if i == 4:
                         break
         # print(time.time())
-        time.sleep(0.001)  # 50 - 80 milisaniye arası
+        time.sleep(0.02)  # 50 - 80 milisaniye arası
         # cv2.imshow('Centers ', scrBgr)
         # cv2.waitKey(1)
 
